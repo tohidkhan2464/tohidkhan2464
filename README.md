@@ -13,6 +13,7 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of 
 
 ### Technology Stack
 
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="30" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" height="30" width="30"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="30" width="30"/> 
@@ -47,7 +48,7 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30" width="30"/>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" height="30" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="30" width="30"/>
-
+</p>
 ### Reach me on
 
 <p align="left">
@@ -99,9 +100,7 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohidkhan2464"  display=block width=100% height=auto  alt="1" >
     </td>
    </tr> 
-   <tr>
-      <td> <img src="https://activity-graph.herokuapp.com/graph?username=tohidkhan2464" alt="stats" display=block width=100% height=auto/></td>
-  </td>
+   
   </tr>
 </table>
 
