@@ -48,19 +48,15 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of 
 <a href="https://linkedin.com/in/tohidkhan324" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tohidkhan324" height="30" width="40" />
 </a>
-
 &nbsp;
 <a href="https://fb.com/tohidkhan30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohidkhan30" height="30" width="40" /></a>
 &nbsp;
 <a href="https://instagram.com/tohidkhan_30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tohidkhan_30/" height="30" width="40" /></a>
-
-
 &nbsp;
 <a href="https://www.hackerrank.com/tohid1193407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tohid1193407" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.leetcode.com/tohidkhan324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tohidkhan324" height="30" width="40" /></a>
 &nbsp;
-
 <a href="https://auth.geeksforgeeks.org/user/tohidkhan_324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tohidkhan_324" height="30" width="40" /></a>
 </p>
 
