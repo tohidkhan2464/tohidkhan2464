@@ -113,8 +113,8 @@ Full-stack **billing & inventory platform** for SMEs with:
 ## 🏆 Github Achievements
 
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=tohidkhan2464"/>
+<a href="https://gh-trophy.cdnsoft.net/?username=tohidkhan2464&theme=light">
+<img src="https://gh-trophy.cdnsoft.net/?username=tohidkhan2464&theme=light"/>
 </a>
 </p>
 
@@ -126,13 +126,14 @@ Full-stack **billing & inventory platform** for SMEs with:
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tohidkhan2464&show_icons=true&theme=default"/>
+<img src="https://streak-stats.demolab.com?user=tohidkhan2464&theme=default&hide_border=true" alt="tohidkhan2464's GitHub Stats" />
+
 
 </td>
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohidkhan2464&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tohidkhan2464&theme=default&show_icons=true&hide_border=true&count_private=true"/>
 
 </td>
 </tr>
