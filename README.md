@@ -2,85 +2,178 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tohid Khan</h1>
 
-A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of Technology and Engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨.I'm currently into MERN Stack Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
+<h3 align="center">Full Stack Developer | AI & Data Science Student | Building Scalable Web & Mobile Apps</h3>
 
-![age](https://img.shields.io/badge/age-21-blue) ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) ![living](https://img.shields.io/badge/living-Udaipur-3c9) ![Profile View](https://komarev.com/ghpvc/?username=tohidkhan2464&label=Profile%20views&color=0e75b6&style=flat)
+A **B.Tech graduate (Artificial Intelligence & Data Science)** from **College of Technology and Engineering, Udaipur 🎓** and currently working as a **Software Developer at Pixel PropX Solutions 🚀**.
+
+I enjoy building **real-world software systems** that solve practical business problems. My focus is on **full-stack development, scalable backend systems, and modern web/mobile applications**.
+
+I love exploring new technologies and transforming ideas into **production-ready products** 💡.
+
+![age](https://img.shields.io/badge/age-21-blue) 
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
+![stack](https://img.shields.io/badge/stack-MERN%20%2B%20FastAPI-orange) 
+![Profile View](https://komarev.com/ghpvc/?username=tohidkhan2464&label=Profile%20views&color=0e75b6&style=flat)
 
 <img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently applying for Software Engineering Roles.
-- 🌱 Also improving DSA Skills by participating in contests of leetcode,codechef, and codeforces.
-- 🌱 On top of that trying to participate in hackathons here and there.
-- 👯 I’m looking forward to contribute in Open Source Projects.
+---
 
-### Technology Stack
+## 🚀 Current Status
+
+- 💼 **Software Developer @ Pixel PropX Solutions**
+- 🧠 Final Year **B.Tech – Artificial Intelligence & Data Science**
+- 🔧 Building **Inventory, Billing & GST Systems for SMEs**
+- 📱 Developing **Cross-platform Web & Mobile Applications**
+- 🧩 Improving **DSA & Problem Solving (LeetCode, CodeChef)**
+- 🌍 Interested in **Open Source & Scalable System Design**
+
+---
+
+## 🧠 What I'm Currently Working On
+
+- ⚡ **Vyapar Drishti** – GST Billing App (Web + Mobile)
+- 📊 **Drishti Docs** – Intelligent Pharmacy Management System
+- 📦 **Inventory & Billing Management Systems**
+- 🔍 Optimizing **FastAPI backend performance**
+- 📱 **React Native + Web Platform integrations**
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+C • C++ • Python • JavaScript • SQL • Dart
+
+### Frontend
+React.js • React Native • HTML5 • CSS3 • Bootstrap • Tailwind • Material UI
+
+### Backend
+FastAPI • Node.js • Express.js • REST APIs
+
+### Database
+MongoDB • MySQL • PostgreSQL
+
+### Tools & DevOps
+Git • GitHub • Docker • Postman • Firebase • Figma
+
+---
+
+### 💻 Tech Icons
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"height="40" width="40"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"height="40" width="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"height="40" width="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"height="40" width="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"height="40" width="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"height="40" width="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"height="40" width="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"height="40" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"height="40" width="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"height="40" width="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
 </p>
 
+---
 
-### Reach me on
+## 📌 Featured Projects
+
+### 🧾 Vyapar Drishti – GST Billing System
+Full-stack **billing & inventory platform** for SMEs with:
+
+- Real-time stock tracking
+- GST-ready invoices & reports
+- Multi-user role management
+- Web + Mobile interface
+
+**Tech:** React.js • React Native • FastAPI • MongoDB • Docker
+
+---
+
+### 💊 Drishti Docs – Intelligent Pharmacy Manager
+
+- Real-time **medicine inventory tracking**
+- **Expiry alerts** & supplier insights
+- Automated **invoice parsing**
+- Data-driven analytics dashboard
+
+**Tech:** React.js • TypeScript • FastAPI • MongoDB • Material UI
+
+---
+
+### 🎓 Campus Connect – College Social Platform
+
+- Real-time **messaging & broadcasting**
+- Community groups for **college departments**
+- REST APIs + real-time workflows
+
+**Tech:** React.js • Firebase • MongoDB
+
+---
+
+## 🏆 Github Achievements
 
 <p align="left">
-
-<a href="https://linkedin.com/in/tohidkhan324" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tohidkhan324" height="30" width="40" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=tohidkhan2464"/>
 </a>
-&nbsp;
-<a href="https://fb.com/tohidkhan30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohidkhan30" height="30" width="40" /></a>
-&nbsp;
-<a href="https://instagram.com/tohidkhan_30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tohidkhan_30/" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/tohid1193407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tohid1193407" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.leetcode.com/tohidkhan324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tohidkhan324" height="30" width="40" /></a>
-&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/tohidkhan_324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tohidkhan_324" height="30" width="40" /></a>
 </p>
 
-### My Github Stats
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohidkhan2464" alt="tohidkhan2464" /></a> </p>
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=tohidkhan2464&show_icons=true"  display=block width=100% height=auto  alt="types" /></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohidkhan2464&layout=compact"  display=block width=100% height=auto alt="3" ></td>
-   </tr> 
-</table
-
-</br>
-
-### My Productivity Stats
+## 📊 Github Stats
 
 <table>
-  <tr>
-    <td>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohidkhan2464"  display=block width=100% height=auto  alt="1" >
-    </td>
-  </tr>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=tohidkhan2464&show_icons=true&theme=default"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohidkhan2464&layout=compact"/>
+
+</td>
+</tr>
 </table>
 
-</br>
+---
+
+## 📈 Productivity Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohidkhan2464"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/tohid-khan">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+</a>
+
+<a href="https://instagram.com/tohidkhan_30">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+</a>
+
+<a href="https://www.hackerrank.com/tohid1193407">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
+</a>
+
+<a href="https://leetcode.com/tohidkhan324">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/tohidkhan_324">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/>
+</a>
+
+</p>
+
+---
+
+⭐ From [Tohid Khan](https://github.com/tohidkhan2464)
