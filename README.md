@@ -1,16 +1,13 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tohid Khan</h1>
-
 <h3 align="center">Full Stack Developer | AI & Data Science Student | Building Scalable Web & Mobile Apps</h3>
 
 A **B.Tech graduate (Artificial Intelligence & Data Science)** from **College of Technology and Engineering, Udaipur 🎓** and currently working as a **Software Developer at Pixel PropX Solutions 🚀**.
-
 I enjoy building **real-world software systems** that solve practical business problems. My focus is on **full-stack development, scalable backend systems, and modern web/mobile applications**.
-
 I love exploring new technologies and transforming ideas into **production-ready products** 💡.
 
-![age](https://img.shields.io/badge/age-21-blue) 
+![age](https://img.shields.io/badge/age-24-blue) 
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
 ![stack](https://img.shields.io/badge/stack-MERN%20%2B%20FastAPI-orange) 
 ![Profile View](https://komarev.com/ghpvc/?username=tohidkhan2464&label=Profile%20views&color=0e75b6&style=flat)
@@ -44,16 +41,12 @@ I love exploring new technologies and transforming ideas into **production-ready
 
 ### Languages
 C • C++ • Python • JavaScript • SQL • Dart
-
 ### Frontend
 React.js • React Native • HTML5 • CSS3 • Bootstrap • Tailwind • Material UI
-
 ### Backend
 FastAPI • Node.js • Express.js • REST APIs
-
 ### Database
 MongoDB • MySQL • PostgreSQL
-
 ### Tools & DevOps
 Git • GitHub • Docker • Postman • Firebase • Figma
 
@@ -89,27 +82,6 @@ Full-stack **billing & inventory platform** for SMEs with:
 
 ---
 
-### 💊 Drishti Docs – Intelligent Pharmacy Manager
-
-- Real-time **medicine inventory tracking**
-- **Expiry alerts** & supplier insights
-- Automated **invoice parsing**
-- Data-driven analytics dashboard
-
-**Tech:** React.js • TypeScript • FastAPI • MongoDB • Material UI
-
----
-
-### 🎓 Campus Connect – College Social Platform
-
-- Real-time **messaging & broadcasting**
-- Community groups for **college departments**
-- REST APIs + real-time workflows
-
-**Tech:** React.js • Firebase • MongoDB
-
----
-
 ## 🏆 Github Achievements
 
 <p align="left">
@@ -125,16 +97,11 @@ Full-stack **billing & inventory platform** for SMEs with:
 <table>
 <tr>
 <td>
-
 <img src="https://streak-stats.demolab.com?user=tohidkhan2464&theme=default&hide_border=true" alt="tohidkhan2464's GitHub Stats" />
-
-
 </td>
-
+  
 <td>
-
 <img src="https://github-readme-stats.vercel.app/api?username=tohidkhan2464&theme=default&show_icons=true&hide_border=true&count_private=true"/>
-
 </td>
 </tr>
 </table>
@@ -150,7 +117,6 @@ Full-stack **billing & inventory platform** for SMEs with:
 ---
 
 ## 🌐 Connect With Me
-
 <p align="left">
 
 <a href="https://linkedin.com/in/tohid-khan">
